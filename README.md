@@ -1,6 +1,5 @@
 # Ex. No. 5 - SIMULATION-OF-DELTA-3D-PRINTER-MACHINE
 
-### DATE: 
 ## AIM:
 ### To simulate the construction of delta 3D printer and to get in-depth knowledge of mechatronics of delta 3D printer.
 
@@ -75,8 +74,8 @@ A display screen that allows the user to interact with the printer, typically us
 
 ## Output:
 
-### Name: B.venkata bharadwaj
-### Register Number: 212222240020
+### Name: P.Pradeep Raj
+### Register Number: 212222240073
 
 ## Result: 
 ### Thus the simulation on construction of delta 3D printer is completed & movement of axis along X, Y, & Z has been studied.
